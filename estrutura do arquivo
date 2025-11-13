@@ -1,0 +1,13 @@
+todo-api/
+├── config/
+│   └── sequelize.js
+├── controllers/
+│   └── tarefaController.js
+├── models/
+│   └── Tarefa.js
+├── routes/
+│   └── tarefaRoutes.js
+├── .env
+├── index.js
+├── package.json
+└── README.md
